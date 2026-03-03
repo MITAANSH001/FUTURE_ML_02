@@ -1,0 +1,902 @@
+[
+  {
+    "ticket_index": 0,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 1,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 2,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 3,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 4,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 5,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 6,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 7,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 8,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 9,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 10,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 11,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 12,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 13,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 14,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 15,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "High",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 16,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 17,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 18,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 19,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 20,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 21,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 22,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 23,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 24,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 25,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 26,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 27,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 28,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 29,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 30,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 31,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 32,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 33,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 34,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 35,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 36,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 37,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 38,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 39,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 40,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 41,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 42,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 43,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 44,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 45,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 46,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 47,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 48,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 49,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 50,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 51,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 52,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 53,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 54,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 55,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 56,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 57,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 58,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 59,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 60,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 61,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 62,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 63,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 64,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 65,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 66,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 67,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 68,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 69,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 70,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 71,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 72,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 73,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 74,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 75,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "High",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 76,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 77,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 78,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 79,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 80,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 81,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 82,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 83,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 84,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 85,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 86,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 87,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 88,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "High",
+    "actual_priority": "High",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 89,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 90,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 91,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 92,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 93,
+    "predicted_category": "General Query",
+    "actual_category": "General Query",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 94,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 95,
+    "predicted_category": "Technical Issue",
+    "actual_category": "Technical Issue",
+    "predicted_priority": "Medium",
+    "actual_priority": "Medium",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 96,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 97,
+    "predicted_category": "Account",
+    "actual_category": "Account",
+    "predicted_priority": "Low",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": true
+  },
+  {
+    "ticket_index": 98,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": false
+  },
+  {
+    "ticket_index": 99,
+    "predicted_category": "Billing",
+    "actual_category": "Billing",
+    "predicted_priority": "Medium",
+    "actual_priority": "Low",
+    "category_correct": true,
+    "priority_correct": false
+  }
+]

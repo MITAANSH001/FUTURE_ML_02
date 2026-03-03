@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "TICKET-1000",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-24T05:40:14.770244",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1001",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.770307",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1002",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-17T05:40:14.770335",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1003",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.770349",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1004",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-06T05:40:14.770360",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1005",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-08T05:40:14.770371",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1006",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-16T05:40:14.770385",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1007",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-15T05:40:14.770399",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1008",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-22T05:40:14.770414",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1009",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-18T05:40:14.770425",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1010",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-13T05:40:14.770435",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1011",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-06T05:40:14.770444",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1012",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-30T05:40:14.770453",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1013",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-13T05:40:14.770461",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1014",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-25T05:40:14.770468",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1015",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-22T05:40:14.770476",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1016",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-09T05:40:14.770484",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1017",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-30T05:40:14.770492",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1018",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-25T05:40:14.770500",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1019",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-19T05:40:14.770507",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1020",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-08T05:40:14.770515",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1021",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2026-01-28T05:40:14.770529",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1022",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-16T05:40:14.770537",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1023",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-27T05:40:14.770544",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1024",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-09T05:40:14.770552",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1025",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-14T05:40:14.770559",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1026",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-23T05:40:14.770566",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1027",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-03T05:40:14.770574",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1028",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-25T05:40:14.770582",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1029",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-01T05:40:14.770589",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1030",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-26T05:40:14.770597",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1031",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.770604",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1032",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-21T05:40:14.770611",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1033",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-14T05:40:14.770618",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1034",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-29T05:40:14.770625",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1035",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-18T05:40:14.770632",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1036",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-12T05:40:14.770640",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1037",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-07T05:40:14.770647",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1038",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-01T05:40:14.770654",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1039",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-05T05:40:14.770662",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1040",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-13T05:40:14.770672",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1041",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.770680",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1042",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-10T05:40:14.770687",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1043",
+    "text": "I was charged twice for my subscription this month. Can you help?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-19T05:40:14.770695",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1044",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-21T05:40:14.770702",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1045",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-17T05:40:14.770709",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1046",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-04T05:40:14.770716",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1047",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-05T05:40:14.770723",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1048",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.770733",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1049",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-28T05:40:14.770740",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1050",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-05T05:40:14.770747",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1051",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-03T05:40:14.770754",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1052",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-17T05:40:14.770761",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1053",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-01T05:40:14.770768",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1054",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-11T05:40:14.770776",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1055",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-01T05:40:14.770783",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1056",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-28T05:40:14.770790",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1057",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-16T05:40:14.770797",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1058",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-22T05:40:14.770805",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1059",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-21T05:40:14.770812",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1060",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-14T05:40:14.770822",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1061",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-08T05:40:14.770830",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1062",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-28T05:40:14.770838",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1063",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-06T05:40:14.770846",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1064",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-05T05:40:14.770853",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1065",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-05T05:40:14.770861",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1066",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-01T05:40:14.770868",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1067",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-26T05:40:14.770875",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1068",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-28T05:40:14.770882",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1069",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.770889",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1070",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-21T05:40:14.770897",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1071",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-26T05:40:14.770904",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1072",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-09T05:40:14.770912",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1073",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-16T05:40:14.770919",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1074",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-26T05:40:14.770926",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1075",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-09T05:40:14.770933",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1076",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-28T05:40:14.770951",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1077",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-08T05:40:14.770958",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1078",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-27T05:40:14.770966",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1079",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-21T05:40:14.770974",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1080",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-20T05:40:14.770982",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1081",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-13T05:40:14.770991",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1082",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-03T05:40:14.770998",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1083",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.771006",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1084",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-29T05:40:14.771013",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1085",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-07T05:40:14.771020",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1086",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-05T05:40:14.771028",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1087",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-24T05:40:14.771035",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1088",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-20T05:40:14.771042",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1089",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-17T05:40:14.771067",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1090",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-15T05:40:14.771075",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1091",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-17T05:40:14.771083",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1092",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-16T05:40:14.771090",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1093",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-15T05:40:14.771098",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1094",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-10T05:40:14.771105",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1095",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-24T05:40:14.771112",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1096",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-17T05:40:14.771119",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1097",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.771127",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1098",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-08T05:40:14.771134",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1099",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-05T05:40:14.771152",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1100",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-12T05:40:14.771163",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1101",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-23T05:40:14.771174",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1102",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.771185",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1103",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-01T05:40:14.771195",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1104",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-06T05:40:14.771206",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1105",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-17T05:40:14.771217",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1106",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-03T05:40:14.771227",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1107",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-12T05:40:14.771237",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1108",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-01T05:40:14.771247",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1109",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-07T05:40:14.771264",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1110",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-05T05:40:14.771275",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1111",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-22T05:40:14.771286",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1112",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-01T05:40:14.771296",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1113",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-19T05:40:14.771311",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1114",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-12T05:40:14.771324",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1115",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-02T05:40:14.771347",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1116",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-02T05:40:14.771355",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1117",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-24T05:40:14.771362",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1118",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-03T05:40:14.771372",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1119",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-25T05:40:14.771380",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1120",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-11T05:40:14.771387",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1121",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2026-02-01T05:40:14.771393",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1122",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-21T05:40:14.771399",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1123",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-10T05:40:14.771406",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1124",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-11T05:40:14.771414",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1125",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-10T05:40:14.771421",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1126",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-31T05:40:14.771428",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1127",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-25T05:40:14.771436",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1128",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-07T05:40:14.771443",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1129",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-22T05:40:14.771451",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1130",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-18T05:40:14.771457",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1131",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-31T05:40:14.771464",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1132",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-01T05:40:14.771471",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1133",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-06T05:40:14.771478",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1134",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-26T05:40:14.771485",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1135",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.771493",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1136",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-25T05:40:14.771500",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1137",
+    "text": "I was charged twice for my subscription this month. Can you help?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-02-09T05:40:14.771508",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1138",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-02-01T05:40:14.771517",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1139",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-07T05:40:14.771524",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1140",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-20T05:40:14.771532",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1141",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-04T05:40:14.771539",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1142",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-15T05:40:14.771546",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1143",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-14T05:40:14.771553",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1144",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-23T05:40:14.771561",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1145",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-20T05:40:14.771570",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1146",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-15T05:40:14.771577",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1147",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-09T05:40:14.771585",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1148",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-25T05:40:14.771592",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1149",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-18T05:40:14.771600",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1150",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-24T05:40:14.771608",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1151",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-12T05:40:14.771618",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1152",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-05T05:40:14.771625",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1153",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-24T05:40:14.771650",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1154",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-18T05:40:14.771657",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1155",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-19T05:40:14.771665",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1156",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-02T05:40:14.771672",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1157",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-02T05:40:14.771681",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1158",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-30T05:40:14.771688",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1159",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-14T05:40:14.771696",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1160",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-13T05:40:14.771703",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1161",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-05T05:40:14.771711",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1162",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.771717",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1163",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-22T05:40:14.771725",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1164",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-22T05:40:14.771732",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1165",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-22T05:40:14.771739",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1166",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-15T05:40:14.771746",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1167",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-03T05:40:14.771753",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1168",
+    "text": "I was charged twice for my subscription this month. Can you help?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-29T05:40:14.771761",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1169",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-28T05:40:14.771768",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1170",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-09T05:40:14.771775",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1171",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.771782",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1172",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-31T05:40:14.771789",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1173",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.771797",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1174",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-12T05:40:14.771804",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1175",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-10T05:40:14.771811",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1176",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-29T05:40:14.771818",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1177",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-07T05:40:14.771831",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1178",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-22T05:40:14.771839",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1179",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-01T05:40:14.771846",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1180",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-10T05:40:14.771854",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1181",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-08T05:40:14.771861",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1182",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-19T05:40:14.771868",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1183",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-18T05:40:14.771875",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1184",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.771882",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1185",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.771890",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1186",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-04T05:40:14.771896",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1187",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-17T05:40:14.771904",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1188",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-15T05:40:14.771911",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1189",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-17T05:40:14.771919",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1190",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-30T05:40:14.771926",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1191",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-16T05:40:14.771933",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1192",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-17T05:40:14.771947",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1193",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-18T05:40:14.771954",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1194",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-07T05:40:14.771962",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1195",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-24T05:40:14.771969",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1196",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-14T05:40:14.771979",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1197",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-06T05:40:14.771987",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1198",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-13T05:40:14.771994",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1199",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-02T05:40:14.772002",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1200",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-01T05:40:14.772009",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1201",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-08T05:40:14.772019",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1202",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-17T05:40:14.772026",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1203",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-31T05:40:14.772033",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1204",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-27T05:40:14.772040",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1205",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-29T05:40:14.772047",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1206",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-10T05:40:14.772054",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1207",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-11T05:40:14.772062",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1208",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-26T05:40:14.772072",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1209",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-21T05:40:14.772079",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1210",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-22T05:40:14.772087",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1211",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-11T05:40:14.772095",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1212",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-01T05:40:14.772102",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1213",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-23T05:40:14.772109",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1214",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-10T05:40:14.772129",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1215",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-26T05:40:14.772136",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1216",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-16T05:40:14.772147",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1217",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2026-01-07T05:40:14.772153",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1218",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-11T05:40:14.772160",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1219",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-04T05:40:14.772167",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1220",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.772174",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1221",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-10T05:40:14.772182",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1222",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-04T05:40:14.772189",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1223",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-03T05:40:14.772196",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1224",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-23T05:40:14.772203",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1225",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-14T05:40:14.772257",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1226",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-07T05:40:14.772265",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1227",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-11T05:40:14.772272",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1228",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-30T05:40:14.772279",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1229",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-27T05:40:14.772286",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1230",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-23T05:40:14.772293",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1231",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-21T05:40:14.772301",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1232",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-21T05:40:14.772308",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1233",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-15T05:40:14.772315",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1234",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-17T05:40:14.772322",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1235",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-26T05:40:14.772332",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1236",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-22T05:40:14.772339",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1237",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-30T05:40:14.772346",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1238",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-27T05:40:14.772353",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1239",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-20T05:40:14.772361",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1240",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-02-12T05:40:14.772370",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1241",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-06T05:40:14.772378",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1242",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-23T05:40:14.772385",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1243",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-29T05:40:14.772393",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1244",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-14T05:40:14.772400",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1245",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.772407",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1246",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-13T05:40:14.772415",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1247",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-26T05:40:14.772422",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1248",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-11T05:40:14.772429",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1249",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-25T05:40:14.772436",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1250",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-08T05:40:14.772443",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1251",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-01T05:40:14.772451",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1252",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-11T05:40:14.772462",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1253",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-27T05:40:14.772469",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1254",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-10T05:40:14.772476",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1255",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.772487",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1256",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-28T05:40:14.772494",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1257",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-24T05:40:14.772501",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1258",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-13T05:40:14.772509",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1259",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.772516",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1260",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-13T05:40:14.772523",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1261",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-09T05:40:14.772531",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1262",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.772538",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1263",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.772545",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1264",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-17T05:40:14.772552",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1265",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-28T05:40:14.772559",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1266",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-12T05:40:14.772566",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1267",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-06T05:40:14.772573",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1268",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-15T05:40:14.772580",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1269",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.772587",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1270",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-02T05:40:14.772594",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1271",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-26T05:40:14.772601",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1272",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-06T05:40:14.772611",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1273",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-29T05:40:14.772619",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1274",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-03T05:40:14.772628",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1275",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-13T05:40:14.772635",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1276",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-09T05:40:14.772642",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1277",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-22T05:40:14.772649",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1278",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-01T05:40:14.772656",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1279",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-01T05:40:14.772664",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1280",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-16T05:40:14.772670",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1281",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-05T05:40:14.772677",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1282",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-09T05:40:14.772684",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1283",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-04T05:40:14.772691",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1284",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.772698",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1285",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-17T05:40:14.772705",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1286",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-22T05:40:14.772712",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1287",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-15T05:40:14.772718",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1288",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-15T05:40:14.772725",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1289",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-14T05:40:14.772732",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1290",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-11T05:40:14.772739",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1291",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-25T05:40:14.772747",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1292",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-15T05:40:14.772754",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1293",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-18T05:40:14.772759",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1294",
+    "text": "I was charged twice for my subscription this month. Can you help?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-23T05:40:14.772769",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1295",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-08T05:40:14.772776",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1296",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-18T05:40:14.772782",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1297",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-08T05:40:14.772789",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1298",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-03T05:40:14.772797",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1299",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-25T05:40:14.772803",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1300",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-15T05:40:14.772810",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1301",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-23T05:40:14.772817",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1302",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-02-21T05:40:14.772824",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1303",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-27T05:40:14.772834",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1304",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-04T05:40:14.772843",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1305",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-30T05:40:14.772851",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1306",
+    "text": "I was charged twice for my subscription this month. Can you help?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-26T05:40:14.772858",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1307",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-17T05:40:14.772865",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1308",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-14T05:40:14.772872",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1309",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-11T05:40:14.772880",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1310",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-17T05:40:14.772887",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1311",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-04T05:40:14.772894",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1312",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-16T05:40:14.772901",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1313",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-25T05:40:14.772911",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1314",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-15T05:40:14.772918",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1315",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2026-01-27T05:40:14.772924",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1316",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-07T05:40:14.772930",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1317",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-18T05:40:14.772942",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1318",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-08T05:40:14.772950",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1319",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-09T05:40:14.772957",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1320",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-21T05:40:14.772964",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1321",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-26T05:40:14.772970",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1322",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-21T05:40:14.772976",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1323",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-08T05:40:14.772984",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1324",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-10T05:40:14.773010",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1325",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-17T05:40:14.773018",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1326",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-09T05:40:14.773025",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1327",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-18T05:40:14.773031",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1328",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-23T05:40:14.773038",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1329",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-07T05:40:14.773045",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1330",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-10T05:40:14.773053",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1331",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-04T05:40:14.773060",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1332",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-17T05:40:14.773067",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1333",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-20T05:40:14.773078",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1334",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.773085",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1335",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.773092",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1336",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-25T05:40:14.773103",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1337",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-01T05:40:14.773110",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1338",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-04T05:40:14.773118",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1339",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-19T05:40:14.773126",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1340",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-26T05:40:14.773133",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1341",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.773140",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1342",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-02T05:40:14.773147",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1343",
+    "text": "I forgot my password and can't reset it.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-07T05:40:14.773154",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1344",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-03T05:40:14.773161",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1345",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-30T05:40:14.773169",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1346",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-12T05:40:14.773176",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1347",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-26T05:40:14.773184",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1348",
+    "text": "Where can I find the API documentation?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-13T05:40:14.773191",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1349",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-08T05:40:14.773198",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1350",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-15T05:40:14.773206",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1351",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-02T05:40:14.773213",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1352",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.773223",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1353",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-06T05:40:14.773230",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1354",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-29T05:40:14.773237",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1355",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.773248",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1356",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.773255",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1357",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-24T05:40:14.773416",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1358",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-01T05:40:14.773426",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1359",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-02T05:40:14.773434",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1360",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-27T05:40:14.773442",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1361",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-13T05:40:14.773449",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1362",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.773457",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1363",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-11T05:40:14.773465",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1364",
+    "text": "Can you explain the additional charges on my account?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-22T05:40:14.773472",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1365",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-29T05:40:14.773479",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1366",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-14T05:40:14.773486",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1367",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-05T05:40:14.773494",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1368",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-20T05:40:14.773503",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1369",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-09T05:40:14.773511",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1370",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-26T05:40:14.773519",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1371",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-29T05:40:14.773526",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1372",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-11T05:40:14.773537",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1373",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-08T05:40:14.773544",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1374",
+    "text": "Can you recommend the best practices for using your platform?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-01T05:40:14.773551",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1375",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-20T05:40:14.773571",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1376",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-03T05:40:14.773578",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1377",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-09T05:40:14.773585",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1378",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-14T05:40:14.773592",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1379",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-25T05:40:14.773599",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1380",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-08T05:40:14.773607",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1381",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-16T05:40:14.773614",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1382",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-24T05:40:14.773621",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1383",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-18T05:40:14.773628",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1384",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-21T05:40:14.773635",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1385",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-06T05:40:14.773642",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1386",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-05T05:40:14.773649",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1387",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-02T05:40:14.773656",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1388",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-12T05:40:14.773662",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1389",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-05T05:40:14.773669",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1390",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-10T05:40:14.773676",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1391",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-08T05:40:14.773686",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1392",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-13T05:40:14.773693",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1393",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-12T05:40:14.773699",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1394",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-11T05:40:14.773707",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1395",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-14T05:40:14.773713",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1396",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-24T05:40:14.773721",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1397",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-26T05:40:14.773729",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1398",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-12T05:40:14.773736",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1399",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-02-03T05:40:14.773743",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1400",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-06T05:40:14.773755",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1401",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-05T05:40:14.773763",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1402",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.773770",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1403",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-01T05:40:14.773778",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1404",
+    "text": "How do I transfer my account to a different email?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.773785",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1405",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-29T05:40:14.773795",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1406",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-12T05:40:14.773802",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1407",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-12T05:40:14.773810",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1408",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-29T05:40:14.773817",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1409",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-19T05:40:14.773824",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1410",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-02T05:40:14.773831",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1411",
+    "text": "I need to update my profile information.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.773847",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1412",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-04T05:40:14.773854",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1413",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-09T05:40:14.773861",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1414",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2026-01-31T05:40:14.773868",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1415",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-23T05:40:14.773875",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1416",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-12T05:40:14.773882",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1417",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-26T05:40:14.773889",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1418",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-07T05:40:14.773896",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1419",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-23T05:40:14.773904",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1420",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.773911",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1421",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-11T05:40:14.773918",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1422",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-08T05:40:14.773925",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1423",
+    "text": "I'm experiencing timeout errors when loading reports.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-01T05:40:14.773932",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1424",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-01-03T05:40:14.773951",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1425",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-13T05:40:14.773958",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1426",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-15T05:40:14.773964",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1427",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-19T05:40:14.773971",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1428",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-25T05:40:14.773978",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1429",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-22T05:40:14.773984",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1430",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-28T05:40:14.773994",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1431",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-19T05:40:14.774002",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1432",
+    "text": "I'm locked out of my account after multiple login attempts.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-25T05:40:14.774012",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1433",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-26T05:40:14.774020",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1434",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-01T05:40:14.774027",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1435",
+    "text": "The pricing seems incorrect on my latest bill.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-22T05:40:14.774034",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1436",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-22T05:40:14.774041",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1437",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-11T05:40:14.774048",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1438",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-13T05:40:14.774055",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1439",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-04T05:40:14.774062",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1440",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-26T05:40:14.774068",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1441",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-11T05:40:14.774076",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1442",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-12T05:40:14.774083",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1443",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-10T05:40:14.774089",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1444",
+    "text": "Can you remove a team member from my account?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-26T05:40:14.774096",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1445",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2026-01-17T05:40:14.774101",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1446",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-25T05:40:14.774108",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1447",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-08T05:40:14.774115",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1448",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-15T05:40:14.774122",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1449",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-28T05:40:14.774129",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1450",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-17T05:40:14.774139",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1451",
+    "text": "Where can I find information about upcoming features?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-20T05:40:14.774147",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1452",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-16T05:40:14.774153",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1453",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-29T05:40:14.774161",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1454",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-10T05:40:14.774168",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1455",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-26T05:40:14.774175",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1456",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-02T05:40:14.774184",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1457",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-21T05:40:14.774194",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1458",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-06T05:40:14.774201",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1459",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-02-06T05:40:14.774207",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1460",
+    "text": "How do I export data in different formats?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-21T05:40:14.774232",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1461",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2025-12-12T05:40:14.774240",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1462",
+    "text": "Can I get a refund for the last month's charges?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.774246",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1463",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-02T05:40:14.774257",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1464",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-19T05:40:14.774263",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1465",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-21T05:40:14.774270",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1466",
+    "text": "What's the best way to organize my projects?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-15T05:40:14.774278",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1467",
+    "text": "I can't connect to the API endpoint.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-18T05:40:14.774285",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1468",
+    "text": "Is there a tutorial for the new dashboard?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-29T05:40:14.774292",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1469",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-19T05:40:14.774302",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1470",
+    "text": "My credit card was declined. Can you help process the payment?",
+    "category": "Billing",
+    "priority": "Low",
+    "created_at": "2025-12-15T05:40:14.774309",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1471",
+    "text": "I want to cancel my subscription and get a refund.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-09T05:40:14.774316",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1472",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-30T05:40:14.774323",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1473",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-28T05:40:14.774330",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1474",
+    "text": "The mobile app won't sync with the desktop version.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.774338",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1475",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-18T05:40:14.774345",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1476",
+    "text": "I need to add another user to my team account.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-07T05:40:14.774353",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1477",
+    "text": "The application keeps crashing when I try to upload files.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-06T05:40:14.774364",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1478",
+    "text": "How do I use the advanced filtering options?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-01-09T05:40:14.774376",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1479",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-27T05:40:14.774386",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1480",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-23T05:40:14.774396",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1481",
+    "text": "How do I integrate your service with my existing tools?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-23T05:40:14.774407",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1482",
+    "text": "Can you explain how the reporting feature works?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2025-12-26T05:40:14.774418",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1483",
+    "text": "I'm getting a 500 error on the dashboard page.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-02-08T05:40:14.774428",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1484",
+    "text": "Can you help me recover my account? I can't log in.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2026-02-27T05:40:14.774438",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1485",
+    "text": "I need to change my account permissions for a user.",
+    "category": "Account",
+    "priority": "Medium",
+    "created_at": "2025-12-04T05:40:14.774448",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1486",
+    "text": "I was overcharged for the premium plan upgrade.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2025-12-25T05:40:14.774459",
+    "status": "Resolved"
+  },
+  {
+    "id": "TICKET-1487",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-02-11T05:40:14.774470",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1488",
+    "text": "The system is running extremely slowly today.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-26T05:40:14.774481",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1489",
+    "text": "My subscription renewal failed. Please retry the payment.",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-21T05:40:14.774494",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1490",
+    "text": "The data export feature is broken.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2025-12-02T05:40:14.774502",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1491",
+    "text": "Why is my invoice showing a different amount than expected?",
+    "category": "Billing",
+    "priority": "Medium",
+    "created_at": "2026-01-20T05:40:14.774508",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1492",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-20T05:40:14.774516",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1493",
+    "text": "How do I enable two-factor authentication?",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-12T05:40:14.774523",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1494",
+    "text": "I need to update my payment method urgently.",
+    "category": "Billing",
+    "priority": "High",
+    "created_at": "2025-12-29T05:40:14.774529",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1495",
+    "text": "The authentication system is rejecting valid credentials.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-06T05:40:14.774539",
+    "status": "Closed"
+  },
+  {
+    "id": "TICKET-1496",
+    "text": "I want to change my account email address.",
+    "category": "Account",
+    "priority": "Low",
+    "created_at": "2026-01-28T05:40:14.774547",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1497",
+    "text": "The database connection seems to be failing intermittently.",
+    "category": "Technical Issue",
+    "priority": "Medium",
+    "created_at": "2026-01-13T05:40:14.774554",
+    "status": "Open"
+  },
+  {
+    "id": "TICKET-1498",
+    "text": "What are the system requirements for your software?",
+    "category": "General Query",
+    "priority": "Low",
+    "created_at": "2026-02-21T05:40:14.774562",
+    "status": "In Progress"
+  },
+  {
+    "id": "TICKET-1499",
+    "text": "The search functionality is not working properly.",
+    "category": "Technical Issue",
+    "priority": "High",
+    "created_at": "2026-01-18T05:40:14.774569",
+    "status": "Closed"
+  }
+]
